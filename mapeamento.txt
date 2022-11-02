@@ -1,0 +1,34 @@
+Plano 1 : demarcar as áreas do quarto
+
+Plano 2 : Uma vez demarcado os lugares do quarto, estabelecer os códigos de cada posição
+
+Obs: ponto de observação cama !!!!
+
+Região 1 : 
+
+1 - Em frente a primeira porta do guarda roupa
+2 - Sentada na cama
+
+Região 2 :
+
+3 - Sentada na poltrona
+4 - De frente a janela
+
+Região 3
+
+5 - Sentada na cabeçeira da cama (lado direito)
+6 - De frente a porta para varanda
+
+Região 4 :
+
+7 - Sentada na cabeçeira da cama (lado esquerdo)
+8 - Atrás da cama (lado esquerdo)
+
+Posições especiais
+
+9 - em frente a pia do banheiro
+10 - no box do banheiro
+11 - em frente a porta do quarto
+12 - sentada no vaso **** obs no 000: a porta abriu
+13 - Sentada na cama do lado próximo a da poltrona
+0 - vazio
